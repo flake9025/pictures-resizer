@@ -3,7 +3,6 @@ wordpress plugin to resize images
 
 === Pictures Resize ===
 Contributors: flake
-Donate link: https%3A%2F%2Fwww.paypal.com%2Fcgi-bin%2Fwebscr%3Fcmd%3D_donations%26business%3Dvincent.villain%40bbox.fr%26item_name%3DWordpress%20Picture%20Resizer%26item_number%3DSupport%20Open%20Source%26no_shipping%3D0%26no_note%3D1%26tax%3D0%26currency_code%3DEUR%26lc%3DFR%26bn%3DPP-DonationsBF%26charset%3DUTF-8
 Tags: pictures, resize, compress
 Requires at least: 3.0
 Tested up to: 3.5
